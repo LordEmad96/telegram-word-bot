@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: telegram-word-bot
+    runtime: image
+    repo: https://github.com/LordEmad96/telegram-word-bot
+    plan: free
